@@ -1,7 +1,5 @@
 #'---
-#' output:
-#'     html_document:
-#'       keep_md: TRUE
+#' output: github_document
 #'---
 
 #+ message=FALSE
@@ -44,9 +42,7 @@ content(request, as = "text", encoding = "UTF-8") %>%
         pluck("establishments") %>%
         tibble()
 
-
-
-
+# rmarkdown::render()
 
 
 
