@@ -1,7 +1,5 @@
 c07_import_export_files.R
 ================
-trucl
-2024-04-09
 
 ``` r
 library(here)
