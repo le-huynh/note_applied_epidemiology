@@ -1,12 +1,10 @@
-c07_import_export_files.R
+Import and Export files
 ================
 
 ``` r
 library(here)
 library(tidyverse)
 ```
-
-# Import and Export files
 
 ### Pasting data from clipboard
 
