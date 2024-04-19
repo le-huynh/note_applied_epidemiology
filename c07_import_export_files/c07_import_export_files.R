@@ -1,12 +1,11 @@
 #'---
+#' title: Import and Export files
 #' output: github_document
 #'---
 
 #+ message=FALSE
 library(here)
 library(tidyverse)
-
-#' # Import and Export files
 
 #' ### Pasting data from clipboard
 #' As data frame

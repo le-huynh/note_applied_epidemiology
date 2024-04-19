@@ -1,5 +1,5 @@
 #'---
-#' title: Grouping Data
+#' title: De-duplication
 #' output: github_document
 #'---
 

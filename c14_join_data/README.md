@@ -1,4 +1,4 @@
-Grouping Data
+Joining Data
 ================
 
 ``` r

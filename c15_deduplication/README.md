@@ -1,4 +1,4 @@
-Grouping Data
+De-duplication
 ================
 
 ``` r

@@ -1,5 +1,5 @@
 #'---
-#' title: Grouping Data
+#' title: Joining Data
 #' output: github_document
 #'---
 
