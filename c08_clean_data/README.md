@@ -974,7 +974,7 @@ data %>% ggplot(aes(date_onset)) +
 
     ## Warning in geom_histogram(stat = "count"): Ignoring unknown parameters: `binwidth`, `bins`, and `pad`
 
-![](c08_clean_data_files/figure-gfm/unnamed-chunk-23-1.png)<!-- -->
+![](histogram_outbreak.png)<!-- -->
 
 ``` r
 # filter data of the second break
